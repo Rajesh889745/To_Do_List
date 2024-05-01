@@ -1,1 +1,1 @@
-# To_Do_List
+I Created a simple To-Do list application allowing users to add, view, mark as complete, and delete tasks. The program will feature a user-friendly command-line interface, with options to save and load tasks. Additional functionalities like task prioritization and searching may be included for enhanced usability.# To_Do_List
